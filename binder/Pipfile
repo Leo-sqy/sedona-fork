@@ -20,7 +20,7 @@ apache-sedona="==1.1.0"
 matplotlib = "*"
 descartes = "*"
 ogr = "*"
-osr = "*"
+OSR = "*"
 
 [requires]
 python_version = "3.7"
