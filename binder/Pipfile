@@ -19,6 +19,8 @@ ipykernel = "*"
 apache-sedona="==1.1.0"
 matplotlib = "*"
 descartes = "*"
+ogr = "*"
+osr = "*"
 
 [requires]
 python_version = "3.7"
